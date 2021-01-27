@@ -1,2 +1,2 @@
 # CDN
-A resource repository for utilizing cdn.jsdelivr.net
+An external resource repository for CDN purpose.
